@@ -1,4 +1,4 @@
-# First make sure to update pip:
+# First make sure to update pip: ejemplo de edicion
 #     $ sudo pip install --upgrade pip
 #
 # Then you probably want to work in a virtualenv (optional):
