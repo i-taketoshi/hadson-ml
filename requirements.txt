@@ -25,18 +25,18 @@
 
 
 ##### Core scientific packages
-jupyter==1.0.0
-matplotlib==3.0.3
-numpy==1.16.2
-pandas==0.24.1
-scipy==1.2.1
+jupyter
+matplotlib
+numpy
+pandas
+scipy
 
 
 ##### Machine Learning packages
-scikit-learn==0.20.3
+scikit-learn
 
 # Optional: the XGBoost library is only used in the ensemble learning chapter.
-xgboost==0.82
+xgboost
 
 
 ##### Deep Learning packages
@@ -45,7 +45,7 @@ xgboost==0.82
 # you need a GPU card with CUDA Compute Capability 3.0 or higher support, and
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
-tensorflow==1.13.1
+tensorflow
 #tensorflow-gpu==1.13.1
 
 
@@ -58,9 +58,9 @@ tensorflow==1.13.1
 
 
 ##### Image manipulation
-imageio==2.5.0
-Pillow==5.4.1
-scikit-image==0.14.2
+imageio
+Pillow
+scikit-image
 
 
 ##### Extra packages (optional)
@@ -70,13 +70,13 @@ scikit-image==0.14.2
 
 # May be useful with Pandas for complex "where" clauses (e.g., Pandas
 # tutorial).
-numexpr==2.6.9
+numexpr
 
 # Optional: these libraries can be useful in the classification chapter,
 # exercise 4.
-nltk==3.4.5
-urlextract==0.9
+nltk
+urlextract
 
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
-tqdm==4.31.1
-ipywidgets==7.4.2
+tqdm=
+ipywidgets
