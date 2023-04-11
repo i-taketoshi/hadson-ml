@@ -1,1 +1,2 @@
 Este es el archivo docs.txt de la rama B
+asi modifico el archivo como deseo
