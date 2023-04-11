@@ -1,1 +1,1 @@
-Este es el archivo docs.txt de la rama A
+Este es el archivo docs.txt de la rama B
