@@ -1,3 +1,1 @@
 Este es el archivo docs11.txt de la rama A
-
-se edita el contenido del texto del archivo en la rama A
